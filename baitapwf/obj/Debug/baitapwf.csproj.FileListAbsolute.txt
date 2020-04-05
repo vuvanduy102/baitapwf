@@ -1,0 +1,8 @@
+D:\abc\baitapwf\baitapwf\bin\Debug\baitapwf.exe
+D:\abc\baitapwf\baitapwf\bin\Debug\baitapwf.pdb
+D:\abc\baitapwf\baitapwf\obj\Debug\baitapwf.csprojAssemblyReference.cache
+D:\abc\baitapwf\baitapwf\obj\Debug\baitapwf.Form1.resources
+D:\abc\baitapwf\baitapwf\obj\Debug\baitapwf.Properties.Resources.resources
+D:\abc\baitapwf\baitapwf\obj\Debug\baitapwf.csproj.GenerateResource.cache
+D:\abc\baitapwf\baitapwf\obj\Debug\baitapwf.exe
+D:\abc\baitapwf\baitapwf\obj\Debug\baitapwf.pdb
